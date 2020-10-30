@@ -1,0 +1,3 @@
+# recruiting
+
+a place to collect interview questions, excercises...
