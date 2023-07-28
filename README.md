@@ -1,2 +1,3 @@
-# hello-world
-My personal blog
+# My blog
+
+Run `hugo server` to view locally

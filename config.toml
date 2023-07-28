@@ -1,0 +1,4 @@
+baseURL = "http://100.115.92.201/"
+languageCode = "en-us"
+title = "Flo's Personal Blog"
+theme = 'hugo-PaperMod-7.0'
