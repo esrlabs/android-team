@@ -1,4 +1,10 @@
-baseURL = "http://100.115.92.201/"
+baseURL = "https://esrlabs.github.io/android-team/"
 languageCode = "en-us"
-title = "Flo's Personal Blog"
+title = "ESR Labs Android Team"
 theme = 'hugo-PaperMod-7.0'
+
+[params]
+    [params.label]
+    icon = "./esr_logo.png"
+    text = " Android Team"
+    iconHeight = 80
