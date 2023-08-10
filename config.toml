@@ -8,3 +8,6 @@ theme = 'hugo-PaperMod-7.0'
     icon = "./esr_logo.png"
     text = " Android Team"
     iconHeight = 80
+
+[markup.goldmark.renderer]
+    unsafe= true
