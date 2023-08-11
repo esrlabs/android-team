@@ -32,11 +32,18 @@ body {
     font-family: 'Hubot-Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.first-entry {
-    min-height:100px;
-}
-
 :root {
     --secondary: rgb(56, 56, 56);
     --code-bg: rgb(227, 134, 134);
+}
+
+.first-entry {
+    min-height:100px;
+    position: relative;
+    margin-bottom: var(--gap);
+    padding: var(--gap);
+    background: var(--entry);
+    border-radius: var(--radius);
+    transition: transform 0.1s;
+    border: 1px solid var(--border);
 }
