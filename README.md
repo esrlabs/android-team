@@ -1,17 +1,18 @@
 # Team Blog
 
+This blog is powered by [Hugo](https://gohugo.io/), a static html site generator.
+
 Best viewn at https://esrlabs.github.io/android-team/
 
 ## Contributing
 
-This is the blog of the ESR Labs Android Team. Therefore only team members can contribute.
+As this is the blog of the ESR Labs Android Team, only team members can contribute.
 
-Run `hugo server` to view locally at http://localhost:1313/
-
+Run `hugo server` to view your changes locally at http://localhost:1313/
 
 ### Creating a new post
 
-A new page can be create with
+A new post can be created with
 
 `hugo new posts/<name-of-post>.md`
 
@@ -43,8 +44,7 @@ Photos of new team members should go into
 
 Afterwards the script `./create_collage.sh` can be invoked to
 
-- downsize the photo (to avoid face recognition 
-we only want a low resolution on the internet)
+- downsize the photo (for privacy reasons)
 - update the collage at `./static/team.png`
 
 
