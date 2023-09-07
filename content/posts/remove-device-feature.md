@@ -1,5 +1,5 @@
 ---
-title: "How to remove a Device Feature"
+title: "How To Remove A Device Feature"
 date: 2023-08-07T13:12:43+02:00
 draft: false
 author: "Florian Bramer"
