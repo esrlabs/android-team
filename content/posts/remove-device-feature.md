@@ -15,7 +15,7 @@ Some reasons why we wanted to remove them:
 
 In this post, I want to guide you through the steps I took to trim down the list of declared device features.
 
-### What are Device Features
+### What are Device Features?
 
 Any android devices declares a list of device features it supports. For example, in the early years of Android, there where phones with and without a built in compass sensor.
 
@@ -33,7 +33,7 @@ You could archive that by declaring a dependency onto the corresponding device f
 
 See https://developer.android.com/guide/topics/manifest/uses-feature-element#features-reference for a list of device features.
 
-### Inspect all exposed Device Features
+### Inspecting all exposed Device Features
 
 First let's inspect all the device features our device declares. One can do that by using an `adb shell` session and Android's package manager.
 
@@ -91,7 +91,7 @@ we can find the file which declares the `android.hardware.bluetooth_le` device f
 </permissions>
 ```
 
-### Remove individual Device Features
+### Removing individual Device Features
 
 Now let's imagine we would like to remove `android.hardware.bluetooth_le` from the list of declared device features. An obvious way to do that, would be to find the _android.hardware.bluetooth_le.xml_ file in our source tree and remove (or comment out) the line which defines the feature:
 

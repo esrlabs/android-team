@@ -2,14 +2,14 @@
 title: "We Are Hiring"
 date: 2023-09-06T17:49:38+02:00
 draft: false
+author: "The Android Team"
 ---
 
-Interested in joining us? We have offices in the southern part of Germany:
+![Hello](./hello.gif)
 
-- Munich (HQ)
-- Ingolstadt
-- Nürnberg
-- Kulmbach
+Interested in joining ESR Labs's Android Team...where innovation, creativity, and cutting-edge technology converge?
+
+If you're passionate about solving complex problems, pushing the boundaries of technology, and working in a dynamic and collaborative environment, we want to hear from you!
 
 Our open positions can be found on Accenture's Career Portal:
 

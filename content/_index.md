@@ -4,24 +4,15 @@ date: 2023-08-07T13:13:15+02:00
 draft: false
 ---
 
-
-<p style="font-family: hubot-sans; font-size: 40px;">
-Hello,
-Servus,
-Ciao,
-Buna ziua,
-Namaste,
-Salut,
-Olá and
-Привет...
-</p>
-
 ![Team Photo](./team.png)
 
+Greetings! Whether you say _Hello_, _Servus_, _Ciao_, _Buna ziua_, _Namaste_, _Salut_, _Olá_, or _Привет_
+welcome to our virtual bat cave! We are the Android Team at ESR Labs, a diverse and multinational group headquartered in Germany.
 
-...from our bat cave. We are the ESR Labs Android Team, a multinational team based in Germany. We collaborate on projects related to the [Android Open Source Project](https://source.android.com/). Our primary focus lies in the automotive industry, particularly in infotainment and [AAOS](https://source.android.com/docs/automotive).
+Our collective efforts are dedicated to collaborative projects associated with the Android Open Source Project ([AOSP](https://source.android.com/)). 
 
-To learn more about __ESR Labs__, which got acquired by __Accenture__ in 2020, follow this [link](https://www.accenture.com/de-de/services/digital-engineering-manufacturing-index).
+Our primary focus revolves around the automotive sector, with a special emphasis on infotainment and Android Automotive OS (AAOS).
 
+If you'd like to delve deeper into the world of ESR Labs, a company that became part of the Accenture family in 2020, you can find additional information by following this [link](https://www.accenture.com/de-de/services/digital-engineering-manufacturing-index).
 
-### Blog Posts
+### Our Blog Posts

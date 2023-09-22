@@ -34,7 +34,7 @@ body {
 
 :root {
     --secondary: rgb(56, 56, 56);
-    --code-bg: rgb(248, 248, 180);
+    --code-bg: rgb(235 235 235)
 }
 
 .first-entry {
