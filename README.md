@@ -48,4 +48,3 @@ Afterwards the script `./create_collage.sh` can be invoked to
 - update the collage at `./static/team.png`
 
 
-
