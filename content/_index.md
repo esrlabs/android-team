@@ -6,7 +6,9 @@ draft: false
 
 ![Team Photo](./team.png)
 
-Greetings! Whether you say _Hello_, _Servus_, _Ciao_, _Buna ziua_, _Namaste_, _Salut_, _Olá_, or _Привет_
+### Welcome!
+
+Whether you say _Hello_, _Servus_, _Ciao_, _Buna ziua_, _Namaste_, _Salut_, _Olá_, or _Привет_
 welcome to our virtual bat cave! We are the Android Team at ESR Labs, a diverse and multinational group headquartered in Germany.
 
 Our collective efforts are dedicated to collaborative projects associated with the Android Open Source Project ([AOSP](https://source.android.com/)). 
