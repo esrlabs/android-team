@@ -63,7 +63,7 @@ I found one interesting comment in that file that is relevant for the single val
 # - If multiple inherited makefiles set the var, the first-inherited value wins
 ```
 
-Seems pretty straightforward now, but let's put this to the test. I created a small test device that is inheriting from the AOSP Car Emulator device, you can browse all the files [on Github](https://github.com/esrlabs/android-team/tree/main/content/posts/incldue-vs-inherit).
+Seems pretty straightforward now, but let's put this to the test. I created a small test device that is inheriting from the AOSP Car Emulator device, you can browse all the files [on Github](https://github.com/esrlabs/android-team/tree/main/content/posts/include-vs-inherit).
 
 The main part is in esr_emulator.mk, where we try to inherit some other files:
 
