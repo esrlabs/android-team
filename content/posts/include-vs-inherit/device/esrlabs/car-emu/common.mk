@@ -1,0 +1,3 @@
+PRODUCT_BRAND := Accenture
+PRODUCT_BUILD_CACHE_IMAGE := true
+EMULATED_GPS := false
