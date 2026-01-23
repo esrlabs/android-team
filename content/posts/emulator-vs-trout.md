@@ -1,6 +1,7 @@
 ---
 title: "Virtual devices: Emulator vs Trout"
 draft: false
+date: 2026-01-15T12:31:31+02:00
 author: "Suraj Chavan"
 ---
 
