@@ -6,7 +6,7 @@ Best viewn at https://esrlabs.github.io/android-team/
 
 ## Contributing
 
-As this is the blog of the ESR Labs Android Team, only team members can contribute.
+As this is the blog of the Accenture Industry X Android Automotive Team, only team members can contribute.
 
 Run `hugo server` to view your changes locally at http://localhost:1313/
 

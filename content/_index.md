@@ -1,5 +1,5 @@
 ---
-title: "ESR Labs Android Team"
+title: "Accenture Industry X Android Automotive Team"
 date: 2023-08-07T13:13:15+02:00
 draft: false
 ---
@@ -8,13 +8,12 @@ draft: false
 
 ### Welcome!
 
-Whether you say _Hello_, _Servus_, _Ciao_, _Buna ziua_, _Namaste_, _Salut_, _Olá_, or _Привет_
-welcome to our virtual bat cave! We are the Android Team at ESR Labs, a diverse and multinational group headquartered in Germany.
+_Hello_, _Servus_, _Ciao_, _Bună ziua_, _Namaste_, _Salut_, _Olá_, _Привет_!
 
-Our collective efforts are dedicated to collaborative projects associated with the Android Open Source Project ([AOSP](https://source.android.com/)). 
+We're the Android Automotive Team at Accenture Industry X — a diverse, multinational crew based in Germany and Romania with a shared passion for all things Android in cars.
 
-Our primary focus revolves around the automotive sector, with a special emphasis on infotainment and Android Automotive OS (AAOS).
+Our work centers on the [Android Open Source Project (AOSP)](https://source.android.com/) and Android Automotive OS (AAOS), building the next generation of in-vehicle infotainment systems.
 
-If you'd like to delve deeper into the world of ESR Labs, a company that became part of the Accenture family in 2020, you can find additional information by following this [link](https://www.accenture.com/de-de/services/digital-engineering-manufacturing-index).
+Curious to learn more about Accenture Industry X? Check out our [website](https://www.accenture.com/de-de/services/digital-engineering-manufacturing-index).
 
 ### Our Blog Posts

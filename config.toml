@@ -1,13 +1,13 @@
 baseURL = "https://esrlabs.github.io/android-team/"
 languageCode = "en-us"
-title = "ESR Labs Android Team"
+title = "Accenture Industry X Android Automotive Team"
 theme = 'hugo-PaperMod-7.0'
 
 [params]
     [params.label]
-    icon = "./esr_logo.png"
-    text = " Android Team"
-    iconHeight = 80
+    icon = "./accenture_logo.png"
+    text = " Android Automotive Team"
+    iconHeight = 27
 
 [markup.goldmark.renderer]
     unsafe= true

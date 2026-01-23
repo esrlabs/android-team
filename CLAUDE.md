@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Hugo-based static blog for the ESR Labs Android Team. The blog covers Android Open Source Project (AOSP), Android Automotive OS (AAOS), and automotive infotainment development topics.
+This is a Hugo-based static blog for the Accenture Industry X Android Automotive Team. The blog covers Android Open Source Project (AOSP), Android Automotive OS (AAOS), and automotive infotainment development topics.
 
 - **Framework**: Hugo v0.115.1 (extended with Dart Sass)
 - **Theme**: hugo-PaperMod-7.0

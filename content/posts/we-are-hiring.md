@@ -2,12 +2,12 @@
 title: "We Are Hiring"
 date: 2023-09-06T17:49:38+02:00
 draft: false
-author: "The Android Team"
+author: "The Android Automotive Team"
 ---
 
 ![Hello](./hello.gif)
 
-Interested in joining ESR Labs's Android Team...where innovation, creativity, and cutting-edge technology converge?
+Interested in joining Accenture Industry X's Android Automotive Team...where innovation, creativity, and cutting-edge technology converge?
 
 If you're passionate about solving complex problems, pushing the boundaries of technology, and working in a dynamic and collaborative environment, we want to hear from you!
 
